@@ -2,6 +2,7 @@
 
 ## 概述
 
+
 用于在 Openshift 上部署 V2Ray Websocket。
 
 **Openshift 为我们提供了免费的容器服务，我们不应该滥用它。正因如此，本项目不宜做为长期翻墙使用。**
